@@ -1,0 +1,67 @@
+.version-2 {
+  text-align: center;
+  color: #212121;
+  background-color: #ffe79e;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  font-family: Work Sans;
+  font-size: 1.188rem;
+  font-weight: 400;
+  line-height: 22px;
+  display: flex;
+}
+
+.rectangle-8 {
+  width: 100%;
+  background-color: #ffe79e;
+  flex-direction: row;
+  flex-basis: 12%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1px;
+  padding-bottom: 1px;
+  display: flex;
+}
+
+.flex-container-1 {
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.component-of-v-2, .component-of-v-2-1, .component-of-v-2-2 {
+  width: 105px;
+  height: 105px;
+  object-fit: cover;
+}
+
+.flex-container-2 {
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.component-of-v-2-3, .component-of-v-2-4, .component-of-v-2-5 {
+  width: 105px;
+  height: 105px;
+  object-fit: cover;
+}
+
+.flex-container-3 {
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.component-of-v-2-6, .component-of-v-2-7, .component-of-v-2-8 {
+  width: 105px;
+  height: 105px;
+  object-fit: cover;
+}

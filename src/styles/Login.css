@@ -1,0 +1,99 @@
+.login {
+    color: #333;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    padding-bottom: 14px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
+
+.action-bar-instance-1 {
+    width: 100%;
+    flex-basis: 8%;
+}
+
+.login-1 {
+    margin-left: 25px;
+}
+
+.please-enter-your-de {
+    letter-spacing: -1px;
+    margin-left: 25px;
+    font-size: 1.75rem;
+    line-height: 32px;
+}
+
+.username {
+    margin-left: 25px;
+}
+
+.frame-92 {
+    color: #333;
+    width: 90%;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-left: 6px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 16px;
+    display: flex;
+}
+
+.password {
+    margin-left: 25px;
+}
+
+.frame-93 {
+    color: #333;
+    width: 90%;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-bottom: 212px;
+    margin-left: 6px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 16px;
+    display: flex;
+}
+
+.rectangle-28 {
+    text-align: center;
+    color: #fff;
+    width: 95%;
+    background-color: #f2c94c;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 7px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}

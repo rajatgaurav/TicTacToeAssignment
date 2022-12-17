@@ -1,0 +1,338 @@
+.home {
+    color: #333;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+    padding-top: 17px;
+    padding-left: 16px;
+    padding-right: 7px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 18px;
+    display: flex;
+}
+
+.your-games {
+    letter-spacing: -1px;
+    margin-bottom: 12px;
+    margin-left: 9px;
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.card {
+    width: 95%;
+    background-color: #fff;
+    border-radius: 8px;
+    flex-direction: column;
+    flex-basis: 18%;
+    justify-content: space-evenly;
+    align-self: center;
+    align-items: stretch;
+    margin-top: 2px;
+    padding-left: 16px;
+    padding-right: 8px;
+    display: flex;
+}
+
+.game-with-tanmay {
+    margin-left: 1px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.tanmay-just-made-the {
+    margin-bottom: 3px;
+    margin-left: 1px;
+}
+
+.num-9-th-june-2022-315 {
+    color: #3f3f3f;
+    margin-bottom: 2px;
+    margin-left: 1px;
+    font-size: .75rem;
+}
+
+.bg {
+    text-align: center;
+    color: #fff;
+    width: 95%;
+    background-color: #f2c94c;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 20%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
+
+.card-1 {
+    width: 95%;
+    background-color: #fff;
+    border-radius: 8px;
+    flex-direction: column;
+    flex-basis: 18%;
+    justify-content: space-evenly;
+    align-self: center;
+    align-items: stretch;
+    padding-left: 16px;
+    padding-right: 8px;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.game-with-harsh {
+    margin-bottom: 5px;
+    margin-left: 1px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.youve-made-your-move {
+    margin-top: 1px;
+    margin-bottom: 2px;
+    margin-left: 1px;
+    font-size: .875rem;
+}
+
+.num-9-th-june-2022-215 {
+    color: #3f3f3f;
+    margin-top: 1px;
+    margin-bottom: 2px;
+    margin-left: 1px;
+    font-size: .75rem;
+}
+
+.bg-1 {
+    text-align: center;
+    color: #fff;
+    width: 95%;
+    background-color: #f2c94c;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 20%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    padding-left: 1px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
+
+.card-2 {
+    width: 95%;
+    background-color: #fff;
+    border-radius: 8px;
+    flex-direction: column;
+    flex-basis: 17%;
+    justify-content: space-around;
+    align-self: center;
+    align-items: stretch;
+    padding: 4px 8px 4px 16px;
+    display: flex;
+}
+
+.game-with-mithilesh {
+    margin-bottom: 2px;
+    margin-left: 1px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.you-won {
+    margin-left: 1px;
+}
+
+.num-9-th-june-2022-121 {
+    color: #3f3f3f;
+    margin-left: 1px;
+    font-size: .75rem;
+}
+
+.bg-2 {
+    text-align: center;
+    color: #fff;
+    width: 95%;
+    background-color: #f2c94c;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 22%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    padding-left: 1px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
+
+.card-3 {
+    width: 95%;
+    background-color: #fff;
+    border-radius: 8px;
+    flex-direction: column;
+    flex-basis: 17%;
+    justify-content: space-evenly;
+    align-self: center;
+    align-items: stretch;
+    padding-left: 16px;
+    padding-right: 8px;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.game-with-shreya {
+    margin-left: 1px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.its-a-draw {
+    margin-bottom: 5px;
+    margin-left: 1px;
+    font-size: .875rem;
+}
+
+.num-9-th-june-2022-091 {
+    color: #3f3f3f;
+    margin-top: 1px;
+    margin-bottom: 2px;
+    margin-left: 1px;
+    font-size: .75rem;
+}
+
+.bg-3 {
+    color: #fff;
+    text-align: center;
+    width: 95%;
+    background-color: #f2c94c;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 22%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    padding-left: 1px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
+
+.card-4 {
+    width: 95%;
+    background-color: #fff;
+    border-radius: 8px;
+    flex-direction: column;
+    flex-basis: 16%;
+    justify-content: space-around;
+    align-self: center;
+    align-items: stretch;
+    padding-top: 6px;
+    padding-bottom: 1px;
+    padding-left: 16px;
+    display: flex;
+}
+
+.game-with-aashna {
+    margin-bottom: 5px;
+    margin-left: 1px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.its-a-draw-1 {
+    margin-top: 1px;
+    margin-bottom: 6px;
+    margin-left: 1px;
+}
+
+.num-9-th-june-2022-081 {
+    color: #3f3f3f;
+    margin-top: 2px;
+    margin-left: 1px;
+    font-size: .75rem;
+}
+
+.flex-container {
+    text-align: center;
+    color: #fff;
+    width: 95%;
+    flex-direction: column;
+    flex-basis: 30%;
+    justify-content: space-between;
+    align-self: center;
+    align-items: flex-end;
+    margin-bottom: 2px;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
+
+.cta {
+    color: #fff;
+    width: 45%;
+    z-index: 1;
+    background-color: #270f36;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 75%;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: -27px;
+    padding-right: 4px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 21px;
+    display: flex;
+}
+
+.right-icons {
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+    margin-left: 1px;
+}
+
+.new-game {
+    margin-bottom: 2px;
+}
+
+.bg-4 {
+    width: 100%;
+    background-color: #f2c94c;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 75%;
+    justify-content: center;
+    align-self: flex-start;
+    align-items: center;
+    margin-right: 8px;
+    padding-left: 1px;
+    display: flex;
+}

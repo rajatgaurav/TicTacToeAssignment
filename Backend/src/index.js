@@ -7,18 +7,18 @@ const app = express();
 
 app.use(cors());
 app.use(express.json());
-const api_key = "nv2zh5h8pmyh";
+const api_key = "";
 const api_secret =
-  "gf4wmuf9rj9vzfpvrdjkwr7qapwty64jdrb48qv7dmqejhrfhc6z94zr2atzcw4q";
+  "";
 const serverClient = StreamChat.getInstance(api_key, api_secret);
 
 app.post("/signup", async (req, res) => {
   try {
-    const { firstName, lastName, username, password } = req.body;
+    const { name, username, email, password } = req.body;
     const userId = uuidv4();
     const hashedPassword = await bcrypt.hash(password, 10);
     const token = serverClient.createToken(userId);
-    res.json({ token, userId, firstName, lastName, username, hashedPassword });
+    res.json({ token, userId, name, username, email, hashedPassword });
   } catch (error) {
     res.json(error);
   }
@@ -39,8 +39,7 @@ app.post("/login", async (req, res) => {
     if (passwordMatch) {
       res.json({
         token,
-        firstName: users[0].firstName,
-        lastName: users[0].lastName,
+        name: users[0].name,
         username,
         userId: users[0].id,
       });

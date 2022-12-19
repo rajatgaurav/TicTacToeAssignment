@@ -1,0 +1,72 @@
+.new-game-your-move {
+    color: #333;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    padding-bottom: 16px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 18px;
+    display: flex;
+}
+
+.action-bar-instance-1 {
+    width: 100%;
+    flex-basis: 8%;
+}
+
+.game-with-tanmay {
+    letter-spacing: -1px;
+    margin-left: 25px;
+    font-size: 1.75rem;
+    line-height: 32px;
+}
+
+.your-piece {
+    margin-left: 25px;
+    font-weight: 400;
+}
+
+.olhwcmqqdqsaq {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+    margin-left: 24px;
+}
+
+.version-2-instance-1 {
+    width: 95%;
+    flex-basis: 53%;
+    margin-bottom: 34px;
+    margin-left: 7px;
+}
+
+.rectangle-28 {
+    text-align: center;
+    color: #fff;
+    width: 95%;
+    background-color: #f2c94c;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    margin-top: 7px;
+    margin-left: 7px;
+    padding-bottom: 1px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
+
+.submit {
+    margin-bottom: 1px;
+}

@@ -1,0 +1,26 @@
+.action-bar {
+    color: #333;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 14px;
+    display: flex;
+}
+
+.arrow-back-ios {
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+}
+
+.right-icons {
+    width: 58px;
+    height: 24px;
+    object-fit: cover;
+    margin-left: 113px;
+}

@@ -1,0 +1,149 @@
+.register {
+    color: #333;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+    padding-bottom: 3px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
+
+.action-bar-instance-1 {
+    width: 100%;
+    flex-basis: 8%;
+}
+
+.create-account {
+    margin-left: 25px;
+}
+
+.lets-get-to-know-you {
+    letter-spacing: -1px;
+    margin-bottom: 19px;
+    margin-left: 25px;
+    font-size: 1.75rem;
+    line-height: 32px;
+}
+
+.your-name {
+    margin-top: 2px;
+    margin-left: 24px;
+}
+
+.frame-4 {
+    color: #333;
+    width: 90%;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-left: 6px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 16px;
+    display: flex;
+}
+
+.username {
+    margin-left: 25px;
+}
+
+.frame-92 {
+    color: #333;
+    width: 90%;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-left: 6px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 16px;
+    display: flex;
+}
+
+.email {
+    margin-left: 25px;
+}
+
+.frame-93 {
+    color: #333;
+    width: 90%;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-left: 6px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 16px;
+    display: flex;
+}
+
+.password {
+    margin-left: 25px;
+}
+
+.frame-94 {
+    color: #333;
+    width: 90%;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: stretch;
+    margin-bottom: 53px;
+    margin-left: 6px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 16px;
+    display: flex;
+}
+
+.rectangle-28 {
+    color: #fff;
+    text-align: center;
+    width: 95%;
+    background-color: #f2c94c;
+    border: none;
+    border-radius: 8px;
+    flex-direction: row;
+    flex-basis: 8%;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    margin-top: 4px;
+    margin-bottom: 3px;
+    margin-left: 7px;
+    padding-left: 1px;
+    font-family: Epilogue;
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 14px;
+    display: flex;
+}
